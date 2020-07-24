@@ -1,0 +1,11 @@
+---
+# Collection Types #############################################################
+################################################################################
+    
+basics: !!map
+  name: Reinaldo Alejandro López Garrido
+  picture: "/reinaldo.jpg"
+  label: "Administrador de sistemas"
+  email: reyemp@gmail.com
+  phone: "(+34) 695202994"
+  website: "https://reyemp.github.io"
