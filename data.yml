@@ -9,3 +9,7 @@ basics: !!map
   email: reyemp@gmail.com
   phone: "(+34) 695202994"
   website: "https://reyemp.github.io"
+  about: 
+    - Hola! soy Reinaldo! 
+    - soy una persona optimista, de buen humor y curiosa, prefiero la austeridad, me gusta la puntualidad, responsabilidad 
+    - Me dedico a la administracion de sistemas, tanto Linux como Windows, soporte técnico.
